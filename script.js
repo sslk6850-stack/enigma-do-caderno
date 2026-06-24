@@ -1,13 +1,13 @@
 const enigmas = [
 
 {
-pergunta:"Representado por uma estátua, na subida da escada, simbolizando duas palavras, "truth" e ________",
+pergunta:"Representado por uma estátua, na subida da escada, simbolizando duas palavras, truth e ________",
 resposta:"Justice"
 },
 
 {
-pergunta:"Qual é a capital do Brasil?",
-resposta:"brasilia"
+pergunta:"Quem sou eu?",
+resposta:"ThatMob"
 },
 
 {
