@@ -1,8 +1,8 @@
 const enigmas = [
 
 {
-pergunta:"Quanto é 2 + 2?",
-resposta:"4"
+pergunta:"Representado por uma estátua, na subida da escada, simbolizando duas palavras, "truth" e ________",
+resposta:"Justice"
 },
 
 {
