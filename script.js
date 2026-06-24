@@ -2,12 +2,12 @@ const enigmas = [
 
 {
 pergunta:"Representado por uma estátua, na subida da escada, simbolizando duas palavras, truth e ________",
-resposta:"Justice"
+resposta:"justice"
 },
 
 {
 pergunta:"Quem sou eu?",
-resposta:"ThatMob"
+resposta:"thatmob"
 },
 
 {
