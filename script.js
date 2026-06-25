@@ -6,7 +6,7 @@ resposta:"justice"
 },
 
 {
-pergunta:"Sempre apareço, mas não sou muito mostrado. Quem sou eu?",
+pergunta:"'.' Mas sem mim nenhum deles estaria conectado. Quem sou eu?",
 resposta:"thatmob"
 },
 
