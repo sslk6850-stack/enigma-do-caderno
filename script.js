@@ -6,7 +6,7 @@ resposta:"justice"
 },
 
 {
-pergunta:"Sempre apareço, mas como não sou muito mostrado. Quem sou eu?",
+pergunta:"Sempre apareço, mas não sou muito mostrado. Quem sou eu?",
 resposta:"thatmob"
 },
 
